@@ -520,3 +520,30 @@ DevTools listening on ws://127.0.0.1:58767/devtools/browser/cc1931ac-fc3c-4724-9
 JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 7168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1731 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1676133335025	geckodriver	INFO	Listening on 127.0.0.1:59138
+1676133338153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZ7vGVM"
+1676133338646	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676133338651	Marionette	INFO	Listening on port 59153
+Read port: 59153
+WebDriver BiDi listening on ws://127.0.0.1:59139
+1676133338824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZ7vGVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59139/devtools/browser/76464777-9fe4-403b-b656-8430bc7ba6b5
+[2023-02-11T16:35:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:35:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:35:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:35:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 2379 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-02-11T17:48:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:48:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:48:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:48:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T17:49:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
