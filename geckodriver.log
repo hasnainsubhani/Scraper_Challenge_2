@@ -1,0 +1,522 @@
+1676128043219	geckodriver	INFO	Listening on 127.0.0.1:50561
+1676128046338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilezdQ6hn"
+1676128047594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128047608	Marionette	INFO	Listening on port 50575
+Read port: 50575
+WebDriver BiDi listening on ws://127.0.0.1:50562
+1676128047917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilezdQ6hn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50562/devtools/browser/ba1f9a57-af9b-4906-a61c-16966cb09233
+[2023-02-11T15:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:07:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450945/pagestyle24 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676128717228	Marionette	INFO	Stopped listening on port 50575
+Dynamically enable window occlusion 1
+[Parent 28724, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileCjoenF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50928/devtools/browser/7032ebef-1887-4d32-9a09-9ee2132dc0ff
+[2023-02-11T15:11:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:11:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:11:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:11:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676128718885	Marionette	INFO	Stopped listening on port 50942
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileLS59qp"
+1676128432839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128432845	Marionette	INFO	Listening on port 51176
+Read port: 51176
+WebDriver BiDi listening on ws://127.0.0.1:51163
+1676128433061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileLS59qp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51163/devtools/browser/c1020f87-9ceb-45ae-9672-60bde3ef8e7f
+[2023-02-11T15:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676128720529	Marionette	INFO	Stopped listening on port 51176
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebIXaan"
+1676128563223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128563229	Marionette	INFO	Listening on port 51410
+Read port: 51410
+WebDriver BiDi listening on ws://127.0.0.1:51396
+1676128563463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilebIXaan\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51396/devtools/browser/aaf55a13-9075-47ab-b853-e87d278e81ae
+[2023-02-11T15:16:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:16:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:16:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:16:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676128721848	Marionette	INFO	Stopped listening on port 51410
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilek2DdyS"
+1676128712418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128712432	Marionette	INFO	Listening on port 51676
+Read port: 51676
+WebDriver BiDi listening on ws://127.0.0.1:51660
+1676128713425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilek2DdyS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51660/devtools/browser/c2fa074d-f92f-4b3f-828f-7014a427b060
+[2023-02-11T15:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:18:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676128840923	Marionette	INFO	Stopped listening on port 51676
+Dynamically enable window occlusion 1
+1676128850850	geckodriver	INFO	Listening on 127.0.0.1:51910
+1676128853943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileNFugy4"
+1676128854559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128854565	Marionette	INFO	Listening on port 51926
+Read port: 51926
+WebDriver BiDi listening on ws://127.0.0.1:51911
+1676128854753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileNFugy4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51911/devtools/browser/696b7161-79f2-4e6c-86eb-4f853660aa84
+[2023-02-11T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:21:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 26628, MediaDecoderStateMachine #1] WARNING: Decoder=1df279ac000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 26628, MediaDecoderStateMachine #1] WARNING: Decoder=1df279ac000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1676128995205	Marionette	INFO	Stopped listening on port 51926
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileKfk075"
+1676128990118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676128990123	Marionette	INFO	Listening on port 52148
+Read port: 52148
+WebDriver BiDi listening on ws://127.0.0.1:52135
+1676128990311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileKfk075\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52135/devtools/browser/20dd29e4-33f8-432c-a0fa-36a58ff465f5
+[2023-02-11T15:23:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:23:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676129265218	Marionette	INFO	Stopped listening on port 52148
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelEZHN9"
+1676129219974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676129219980	Marionette	INFO	Listening on port 52469
+Read port: 52469
+WebDriver BiDi listening on ws://127.0.0.1:52453
+1676129220179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelEZHN9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52453/devtools/browser/e9473e82-2cf1-4afc-a40f-a03d770479d5
+[2023-02-11T15:27:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:27:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:27:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:27:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676129262863	Marionette	INFO	Stopped listening on port 52469
+Dynamically enable window occlusion 1
+1676129278210	geckodriver	INFO	Listening on 127.0.0.1:52601
+1676129281334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelm1OEK"
+1676129282010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676129282016	Marionette	INFO	Listening on port 52617
+Read port: 52617
+WebDriver BiDi listening on ws://127.0.0.1:52602
+1676129282202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelm1OEK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52602/devtools/browser/0ee42dca-263a-4a04-9af4-594974bada72
+[2023-02-11T15:28:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130059496	Marionette	INFO	Stopped listening on port 52617
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileejtLTl"
+1676129333801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676129333806	Marionette	INFO	Listening on port 52744
+Read port: 52744
+WebDriver BiDi listening on ws://127.0.0.1:52731
+1676129333992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileejtLTl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52731/devtools/browser/119ba7d3-585c-4609-ad72-1e8ad73557b6
+[2023-02-11T15:28:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:28:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130062415	Marionette	INFO	Stopped listening on port 52744
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiley7PcBV"
+1676129725302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676129725315	Marionette	INFO	Listening on port 53267
+Read port: 53267
+WebDriver BiDi listening on ws://127.0.0.1:53250
+1676129725642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofiley7PcBV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53250/devtools/browser/b6c02614-2b59-4476-8ecf-a529b7ee259e
+[2023-02-11T15:35:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:35:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:35:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:35:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130063760	Marionette	INFO	Stopped listening on port 53267
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=203a1ea7900"
+l\\Temp\\rust_mozprofileKSkuO6"
+1676130055715	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130055758	Marionette	INFO	Listening on port 53720
+Read port: 53720
+WebDriver BiDi listening on ws://127.0.0.1:53704
+Read port: 53720
+1676130057726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileKSkuO6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53704/devtools/browser/9720ad08-5ea0-4c15-9ab8-417617357860
+[2023-02-11T15:41:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:41:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:41:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:41:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130453374	Marionette	INFO	Stopped listening on port 53720
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWlDJto"
+1676130352925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130352938	Marionette	INFO	Listening on port 54109
+Read port: 54109
+WebDriver BiDi listening on ws://127.0.0.1:54096
+1676130353558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWlDJto\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54096/devtools/browser/dd54f0e7-3068-4d2f-8096-20b927fd1e0f
+[2023-02-11T15:46:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:46:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:46:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:46:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130461117	Marionette	INFO	Stopped listening on port 54109
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "54280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWz5fk7"
+1676130452711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130452745	Marionette	INFO	Listening on port 54297
+Read port: 54297
+WebDriver BiDi listening on ws://127.0.0.1:54280
+1676130453899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileWz5fk7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54280/devtools/browser/3c559f73-df4a-42e5-ac29-1d6d292ce71b
+[2023-02-11T15:47:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:47:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:47:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:47:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130956432	Marionette	INFO	Stopped listening on port 54297
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7auIMw"
+1676130588313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130588331	Marionette	INFO	Listening on port 54539
+Read port: 54539
+WebDriver BiDi listening on ws://127.0.0.1:54519
+1676130588945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile7auIMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54519/devtools/browser/f37ddc7a-7dab-4a96-94bc-5d67f6d9f720
+[2023-02-11T15:49:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:49:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:49:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:49:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130953423	Marionette	INFO	Stopped listening on port 54539
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileYg6saY"
+1676130680686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130680690	Marionette	INFO	Listening on port 54728
+Read port: 54728
+WebDriver BiDi listening on ws://127.0.0.1:54715
+1676130680895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileYg6saY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54715/devtools/browser/ecd8c643-1635-408a-9621-bd01b25574d1
+[2023-02-11T15:51:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:51:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:51:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:51:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130952230	Marionette	INFO	Stopped listening on port 54728
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelnmuc1"
+1676130759634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130759639	Marionette	INFO	Listening on port 54895
+Read port: 54895
+WebDriver BiDi listening on ws://127.0.0.1:54883
+1676130759852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilelnmuc1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54883/devtools/browser/a2f65324-1bb2-4509-b2e2-f5e2fd50b3dd
+[2023-02-11T15:52:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:52:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:52:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:52:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130956644	Marionette	INFO	Stopped listening on port 54895
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4hnqwF"
+1676130827067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130827072	Marionette	INFO	Listening on port 55062
+Read port: 55062
+WebDriver BiDi listening on ws://127.0.0.1:55048
+1676130827279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4hnqwF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55048/devtools/browser/ce26b858-5885-4dda-bdad-903b5d20389f
+[2023-02-11T15:53:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:53:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:53:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:53:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676130958226	Marionette	INFO	Stopped listening on port 55062
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQAyPqW"
+1676130948977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676130948982	Marionette	INFO	Listening on port 55315
+Read port: 55315
+WebDriver BiDi listening on ws://127.0.0.1:55302
+1676130949326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQAyPqW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55302/devtools/browser/bcb388d6-a497-413d-a62f-c3bb0aad67f5
+[2023-02-11T15:56:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:56:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 17196, MediaDecoderStateMachine #1] WARNING: Decoder=2289db32d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 17196, MediaDecoderStateMachine #1] WARNING: Decoder=2289db32d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[2023-02-11T15:56:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676132239501	Marionette	INFO	Stopped listening on port 55315
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4Jgxk0"
+1676131082837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676131082842	Marionette	INFO	Listening on port 55542
+Read port: 55542
+WebDriver BiDi listening on ws://127.0.0.1:55528
+1676131083050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofile4Jgxk0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55528/devtools/browser/08ddb3be-aaa5-415d-a886-7e35ec6c7823
+[2023-02-11T15:58:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:09Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T15:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 84 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/97ea7458/player_ias.vflset/en_US/base.js, line 10061: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 5902 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450954"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1365 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-02-11T16:05:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:05:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:05:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:05:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.error: "Unable to find target with innerWindowId:6442450979"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 3736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.error: "Unable to find target with innerWindowId:6442450989"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450973"
+[2023-02-11T16:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:07:08Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[2023-02-11T16:08:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:08:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:08:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:08:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: "Unable to find target with innerWindowId:6442450990"
+[2023-02-11T16:12:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-02-11T16:12:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:12:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:12:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 3351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source893 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source894 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source895 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source896 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source897 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source898 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source899 does not exist"
+console.warn: "source source-server0.conn0.windowGlobal6442450999/source900 does not exist"
+console.error: "Unable to find target with innerWindowId:6442450999"
+[2023-02-11T16:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:12:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3513: TypeError: data.frameData.id is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 5149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3513: TypeError: data.frameData.id is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676132241087	Marionette	INFO	Stopped listening on port 55542
+Dynamically enable window occlusion 1
+rors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileZE58LA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57096/devtools/browser/38a78c53-e7d1-405b-8e29-3ef55174c8d0
+[2023-02-11T16:17:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:17:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 7688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 7549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676132388999	Marionette	INFO	Stopped listening on port 57109
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilezQWDei"
+1676132315974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676132315979	Marionette	INFO	Listening on port 57332
+Read port: 57332
+WebDriver BiDi listening on ws://127.0.0.1:57320
+1676132316153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofilezQWDei\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57320/devtools/browser/23129998-8d4f-4462-a864-ef7efa437312
+[2023-02-11T16:19:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1676132362910	Marionette	INFO	Stopped listening on port 57332
+Dynamically enable window occlusion 1
+1676132379774	geckodriver	INFO	Listening on 127.0.0.1:57521
+1676132382867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57522" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQPx1JC"
+1676132383526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676132383530	Marionette	INFO	Listening on port 57535
+Read port: 57535
+WebDriver BiDi listening on ws://127.0.0.1:57522
+1676132383755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileQPx1JC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57522/devtools/browser/3218c099-3095-462f-9bb3-9ea1dbb4c812
+[2023-02-11T16:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:19:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:20:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 6593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 4812 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676133134287	Marionette	INFO	Stopped listening on port 57535
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+efox.exe" "--marionette" "--remote-debugging-port" "57805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileCUwh9m"
+1676132520279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676132520284	Marionette	INFO	Listening on port 57820
+Read port: 57820
+WebDriver BiDi listening on ws://127.0.0.1:57805
+1676132520474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileCUwh9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57805/devtools/browser/efd5887e-5c82-4ff9-a044-81a1b67b9098
+[2023-02-11T16:22:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:22:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 4956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 6139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676133133105	Marionette	INFO	Stopped listening on port 57820
+Dynamically enable window occlusion 1
+rors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileGv5A03\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58438/devtools/browser/b8c2abfb-5d98-4a4e-a167-23c886267860
+[2023-02-11T16:29:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:29:33Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 462 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676133130226	Marionette	INFO	Stopped listening on port 58451
+Dynamically enable window occlusion 1
+[Parent 27324, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+in\\AppData\\Local\\Temp\\rust_mozprofileuNYtrj"
+1676133125239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676133125244	Marionette	INFO	Listening on port 58782
+Read port: 58782
+WebDriver BiDi listening on ws://127.0.0.1:58767
+1676133125477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Hasnain\\AppData\\Local\\Temp\\rust_mozprofileuNYtrj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58767/devtools/browser/cc1931ac-fc3c-4724-955c-d7ce61f494c7
+[2023-02-11T16:32:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:21Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-11T16:32:36Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 7168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EWloDjzMQOvRZmCEufFfn6ZrYQ_lvyXFrAdKlYrDV_0.js line 2 > eval line 1731 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676133335025	geckodriver	INFO	Listening on 127.0.0.1:59138
